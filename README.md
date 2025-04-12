@@ -1,4 +1,4 @@
-# File_2_MindMap
+# File_2_MindMap_byLLM
 An enhanced web application based on the [MindMapper](https://github.com/misbahsy/MindMapper) that generates interactive mind maps from uploaded files by LLM.
 Upload and chunk files, make POST requests to Aliyun to obtain LLM output, then generate markdown and visualize mind maps with Mermaid.
 
@@ -29,8 +29,8 @@ Upload and chunk files, make POST requests to Aliyun to obtain LLM output, then 
 1. Clone the repository:
 
 ```bash
-git https://github.com/yourusername/File_2_MindMap.git
-cd File_2_MindMap
+git https://github.com/yourusername/File_2_MindMap_byLLM.git
+cd File_2_MindMap_byLLM
 ```
 
 2. Install dependencies:

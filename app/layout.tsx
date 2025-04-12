@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "File_2_Mindmap",
+  title: "File_2_Mindmap_byLLM",
   description: "Generated Mindmap by uploading files",
 };
 

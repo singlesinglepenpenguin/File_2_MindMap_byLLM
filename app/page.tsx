@@ -108,7 +108,7 @@ export default function Home() {
   return (
     <main className="flex min-h-screen flex-col p-4 md:p-8 max-w-7xl mx-auto">
       <header className="mb-8">
-        <h1 className="text-3xl font-bold mb-2">File_2_MindMap</h1>
+        <h1 className="text-3xl font-bold mb-2">File_2_MindMap_byLLM</h1>
         <p className="text-gray-600">Upload your file to get the mind map</p>
       </header>
       
